@@ -1,7 +1,3 @@
-
-
-
-I am interested in many aspect of software development, though no where I want to end up. 
 <!DOCTYPE html>
 <html>
 <body>
