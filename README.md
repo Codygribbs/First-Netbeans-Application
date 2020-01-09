@@ -2,5 +2,5 @@
 
 Hello Everyone!
 
-I am an amateur junior developer. I have an open mind to all computer languages because I don't know which to focus on yet.
-I like many hobbies and have a wonderful supporting family.
+I am an amateur junior developer. I have many hobbies including exploring the woods, throwing darts, gaming it up on Xbox,
+and many others. 
